@@ -1,5 +1,6 @@
 # 💫 About Me:
-😺 I'm currently working on Authentica<br>
+😺 I'm currently working on Authentica and Property Compass.<br>
+  
 
 
 # 💻 Tech Stack:
