@@ -17,7 +17,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chris-briddock&limit=5&theme=dark&combine_all_yearly_contributions=true)
+!(https://github-contributor-stats.vercel.app/api?username=chris-briddock&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=chris-briddock&countColor=%237B1E7A)]
