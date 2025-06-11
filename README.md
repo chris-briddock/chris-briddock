@@ -1,5 +1,5 @@
 # 💫 About Me:
-😺 I'm currently working on GuardianShare, Authentica and Stratum<br>
+😺 I'm currently working on...<br>
   
 
 # 💻 Tech Stack:
