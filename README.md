@@ -1,9 +1,7 @@
 # 💫 About Me:
 Hi there, I'm Chris 👋
 
-Software Engineer with 7+ years within the FinTech and Insurance space, building clean, maintainable, and scalable applications.
-
-I love crafting code that just works—and works well.
+Software Engineer with 7+ years within the FinTech and Insurance space.
 
 💻 Tech & Tools:
 
@@ -13,11 +11,11 @@ Backend: .NET, ASP.NET
 
 Mobile: .NET MAUI (leaarning)
 
-Architecture: DDD, layered architecture (API, Application, Domain, Persistence, Infrastructure)
+Architecture: Domain Driven, layered architecture (API, Application, Domain, Persistence, Infrastructure)
 
 Principles: SOLID, DRY, KISS, YAGNI
 
-I enjoy optimizing workflows, exploring new tech, and contributing to open-source projects. Always forward-thinking, always learning. 🚀
+lways forward-thinking, always learning. 🚀
   
 
 # 💻 Tech Stack:
