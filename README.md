@@ -15,7 +15,7 @@ Architecture: Domain Driven, layered architecture (API, Application, Domain, Per
 
 Principles: SOLID, DRY, KISS, YAGNI
 
-lways forward-thinking, always learning. 🚀
+Always forward-thinking, always learning. 🚀
   
 
 # 💻 Tech Stack:
